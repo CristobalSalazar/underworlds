@@ -11,12 +11,15 @@ public class BasicMovement : MonoBehaviour
     {
         float horizontal = Input.GetAxisRaw("Horizontal");
         float vertical = Input.GetAxisRaw("Vertical");
-        Vector3 movement = new Vector3(horizontal, vertical, 0);
+        Vector3 movementVector = new Vector3(horizontal, vertical, 0);
 
-        if (movement != Vector3.zero && canMove && levelGenerator.CanMove(transform.position + movement)) {
-            transform.position += movement;
-            canMove = false;
-        } else if (movement == Vector3.zero && !canMove) {
+        if (movementVector != Vector3.zero) {
+            if (canMove && levelGenerator.CanMove(transform.position + movementVector)) {
+                transform.position += movementVector;
+                canMove = false;
+                transform.right = movementVector;
+            }
+        } else if (movementVector == Vector3.zero && !canMove) {
             canMove = true;
         }
     }
