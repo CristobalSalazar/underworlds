@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6762533e0fb304bc488e746d9fc841de, type: 3}
+  m_Name: Test
+  m_EditorClassIdentifier: 
+  center: {fileID: 21300000, guid: 65217e6aadf384d76af85691554f647f, type: 3}
+  top: {fileID: 21300000, guid: 055dc10a6baa0466ba4e1b7cae7f6db1, type: 3}
+  bottom: {fileID: 21300000, guid: 2dd69b69b95724b2088acd5edccea1a4, type: 3}
+  left: {fileID: 21300000, guid: f67cbc932d05741a2801f3e1948ec9a9, type: 3}
+  right: {fileID: 21300000, guid: 2bf7d1034de694f4cb760f93f8129c1f, type: 3}
+  topRight: {fileID: 21300000, guid: 195f92363d079474da4569f0f8afa56e, type: 3}
+  topLeft: {fileID: 21300000, guid: b3c0d13027615442691d12ee03dd3c6d, type: 3}
+  bottomRight: {fileID: 21300000, guid: 5c6bda2dbc7094a629e46d6b0bbfbca0, type: 3}
+  bottomLeft: {fileID: 21300000, guid: eada4bd9905cc4d0b9bce5fe8c243868, type: 3}
