@@ -12,12 +12,69 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6762533e0fb304bc488e746d9fc841de, type: 3}
   m_Name: Test
   m_EditorClassIdentifier: 
-  center: {fileID: 21300000, guid: 65217e6aadf384d76af85691554f647f, type: 3}
-  top: {fileID: 21300000, guid: 055dc10a6baa0466ba4e1b7cae7f6db1, type: 3}
-  bottom: {fileID: 21300000, guid: 2dd69b69b95724b2088acd5edccea1a4, type: 3}
-  left: {fileID: 21300000, guid: f67cbc932d05741a2801f3e1948ec9a9, type: 3}
-  right: {fileID: 21300000, guid: 2bf7d1034de694f4cb760f93f8129c1f, type: 3}
-  topRight: {fileID: 21300000, guid: 195f92363d079474da4569f0f8afa56e, type: 3}
-  topLeft: {fileID: 21300000, guid: b3c0d13027615442691d12ee03dd3c6d, type: 3}
-  bottomRight: {fileID: 21300000, guid: 5c6bda2dbc7094a629e46d6b0bbfbca0, type: 3}
-  bottomLeft: {fileID: 21300000, guid: eada4bd9905cc4d0b9bce5fe8c243868, type: 3}
+  center: {fileID: 21300000, guid: 7730ba69fc6b94cc4be5945ed01c0390, type: 3}
+  top: {fileID: 21300000, guid: 630b5433767c4413b995904d719a4467, type: 3}
+  bottom: {fileID: 21300000, guid: a44d8bebce2e7488c862e5ede6386e67, type: 3}
+  left: {fileID: 21300000, guid: 434239f2daeae4c73b88fdd1421b08ea, type: 3}
+  right: {fileID: 21300000, guid: 198878fdc46ad4c0b831911a0a116c73, type: 3}
+  topRight: {fileID: 21300000, guid: 01f14969a7cd044c593e6d9b73a0c86a, type: 3}
+  topLeft: {fileID: 21300000, guid: c525fb0b8437b40da98d98d83b0c4874, type: 3}
+  bottomRight: {fileID: 21300000, guid: 627c8916312be4aca91165ebf737ed87, type: 3}
+  bottomLeft: {fileID: 21300000, guid: 1f7c811338fb945a48527e426163ecba, type: 3}
+  twoBorderVertical: {fileID: 21300000, guid: 5ed8c31eeed194f6d828d245c08240ee, type: 3}
+  twoBorderHorizontal: {fileID: 21300000, guid: ccfa88e7751f54a538ff564906e33b69,
+    type: 3}
+  threeBorderTop: {fileID: 21300000, guid: cf892b2aa65a54c77aad75823ad27c0c, type: 3}
+  threeBorderBottom: {fileID: 21300000, guid: 39fc1c2ac1fbd41289abf0448d28c67b, type: 3}
+  threeBorderLeft: {fileID: 21300000, guid: b93a927afd44b4a7a836089def773554, type: 3}
+  threeBorderRight: {fileID: 21300000, guid: b67edc82e2f334145b3a19e81bbc731d, type: 3}
+  insetAll: {fileID: 21300000, guid: 40425cd45729b4d9cbdac0f2677d1c67, type: 3}
+  insetTopBottomLeft: {fileID: 21300000, guid: f1f9caac952de43378ef0811a61c7bca, type: 3}
+  insetTopBottomRight: {fileID: 21300000, guid: 9ff30d1314ba94eea87fde9da80a3317,
+    type: 3}
+  insetBottomTopLeft: {fileID: 21300000, guid: d12171dab578b42dfa607adc4610c9b9, type: 3}
+  insetBottomTopRight: {fileID: 21300000, guid: 71698457153904e0a93ff471bab1a528,
+    type: 3}
+  insetTop: {fileID: 21300000, guid: 4d96b5f192b7f442b9a446e1510195f7, type: 3}
+  insetBottom: {fileID: 21300000, guid: 75be9eb61ec43436a806b43cd43ad746, type: 3}
+  insetLeft: {fileID: 21300000, guid: 4b6a42f86d3ba4584a604d83b41bc6fc, type: 3}
+  insetRight: {fileID: 21300000, guid: cdda7fc88cbb54599af938fd006e0522, type: 3}
+  insetTopLeftBottomRight: {fileID: 21300000, guid: 5ffd3781aa9b4411ea0a1f593d099da0,
+    type: 3}
+  insetTopRightBottomLeft: {fileID: 21300000, guid: 3d302bbce57a54cd49c455c00dccfb42,
+    type: 3}
+  topBorderInsetBottom: {fileID: 21300000, guid: 1eef956c1b82f4e39b3f91ad7969521a,
+    type: 3}
+  bottomBorderInsetTop: {fileID: 21300000, guid: 3103179fa19124216afb7efab7d73a7a,
+    type: 3}
+  leftBorderInsetRight: {fileID: 21300000, guid: a8b31888332f94c748adc9a8cec0e586,
+    type: 3}
+  rightBorderInsetLeft: {fileID: 21300000, guid: deb462026fd7740178117f265a8c4d6f,
+    type: 3}
+  insetTopRight: {fileID: 21300000, guid: 783481426ad034661bef5c26dc11d3e9, type: 3}
+  insetTopLeft: {fileID: 21300000, guid: 45aa9baf30c6247fd8a603a94c5a0e5a, type: 3}
+  insetBottomLeft: {fileID: 21300000, guid: e4bb52a0181514fcbb326b954d5acff9, type: 3}
+  insetBottomRight: {fileID: 21300000, guid: f6aaefa578ea64ee79ededdaac98e038, type: 3}
+  topBorderInsetBottomLeft: {fileID: 21300000, guid: f3fd939ea59ea4f8ea1ff616d3e20880,
+    type: 3}
+  topBorderInsetBottomRight: {fileID: 21300000, guid: 5e118bd0df4ba4919bb6729f7d658a8b,
+    type: 3}
+  bottomBorderInsetTopLeft: {fileID: 21300000, guid: a3b2df2678b4e49029aa661b482e39d6,
+    type: 3}
+  bottomBorderInsetTopRight: {fileID: 21300000, guid: abf190df7239e4cbaa34645ce6643b17,
+    type: 3}
+  leftBorderInsetTopRight: {fileID: 21300000, guid: 5d0047ff7dd824b46be3e1a7223780b1,
+    type: 3}
+  leftBorderInsetBottomRight: {fileID: 21300000, guid: f8b3be870259c46d18d9d1ebad09ec5b,
+    type: 3}
+  rightBorderInsetTopLeft: {fileID: 21300000, guid: a027d579a98b04803ab8c1d3680f4275,
+    type: 3}
+  rightBorderInsetBottomLeft: {fileID: 21300000, guid: 0cb766be8deed4685b19a08bcd18c32a,
+    type: 3}
+  topLeftBorderInset: {fileID: 21300000, guid: d05e5578fa54b4dc6af9ba84d274d2f6, type: 3}
+  topRigthBorderInset: {fileID: 21300000, guid: 56072babf9d4146f88ab44e5a6b45f76,
+    type: 3}
+  bottomLeftBorderInset: {fileID: 21300000, guid: 474e6288212c84873ade029bc5ec9e83,
+    type: 3}
+  bottomRightBorderInset: {fileID: 21300000, guid: 39f86718d7f0646ffa05fe6e0ca10413,
+    type: 3}
