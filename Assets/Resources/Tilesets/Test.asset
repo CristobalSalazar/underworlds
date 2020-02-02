@@ -12,7 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6762533e0fb304bc488e746d9fc841de, type: 3}
   m_Name: Test
   m_EditorClassIdentifier: 
-  center: {fileID: 21300000, guid: 7730ba69fc6b94cc4be5945ed01c0390, type: 3}
+  center: {fileID: 21300000, guid: 6066c294e90644a728c6ec9a615f3c16, type: 3}
+  borderAll: {fileID: 21300000, guid: 2ad6c037b466a455b9ef8a2c4e56549f, type: 3}
   top: {fileID: 21300000, guid: 630b5433767c4413b995904d719a4467, type: 3}
   bottom: {fileID: 21300000, guid: a44d8bebce2e7488c862e5ede6386e67, type: 3}
   left: {fileID: 21300000, guid: 434239f2daeae4c73b88fdd1421b08ea, type: 3}
